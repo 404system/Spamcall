@@ -15,7 +15,7 @@ spam call by 404 error system
 
 # ls
 
-# php spamcall.php
+# php spam.php
 
 # Done
 
